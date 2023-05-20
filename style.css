@@ -11,16 +11,16 @@ body {
 }
 
 #webflow {
-  padding: 120px 0;
+  padding: 100px 0;
 }
 #webflow .box {
   background-color: #9c6644;
-  padding: 40px;
-  border-radius: 10px;
-  width: 270px;
+  padding: 70px;
+  border-radius: 20px;
+  width: 250px;
 }
 #webflow .box h1 {
-  font-size: 55px;
+  font-size: 50px;
   font-weight: 700;
   color: #ffbd00;
   margin-bottom: 65px;
@@ -30,7 +30,7 @@ body {
   border: 3px solid #8a817c;
   border-radius: 10px;
   font-size: 20px;
-  margin-bottom: 40px;
+  margin-bottom: 70px;
 }
 #webflow .box .btn {
   background-color: white;
@@ -46,17 +46,17 @@ body {
   background-color: #d5d8dc;
   cursor: pointer;
 }
-#webflow .box .minibox {
+#webflow .minibox {
   width: 230px;
-  margin-top: 50px;
+  margin-top: 25px;
   background-color: white;
   border-radius: 5px;
 }
-#webflow .box .minibox h2 {
+#webflow .minibox h2 {
   font-size: 25px;
   border: 2px solid #5d6d7e;
   margin: 10px;
-  padding: 5px;
+  padding: 8px;
   border-radius: 5px;
   word-wrap: break-word;
 }/*# sourceMappingURL=style.css.map */
